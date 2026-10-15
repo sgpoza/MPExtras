@@ -1,5 +1,6 @@
 # Created by patch.sh
-**/tools/.venv/
+**/tools/
+**/store/
 **/tmp/
 
 # Game images (copyrighted, and too large for GitHub)
